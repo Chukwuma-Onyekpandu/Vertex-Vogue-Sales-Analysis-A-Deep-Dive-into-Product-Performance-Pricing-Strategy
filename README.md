@@ -3,6 +3,7 @@
 **Author:** Onyekpandu Chukwuma  
 **Tools Used:** Microsoft Excel (Power Query, PivotTables, Charts)  
 **Duration:** Analysis covers sales data from 2017–2018
+![Dashboard](https://github.com/Chukwuma-Onyekpandu/Vertex-Vogue-Sales-Analysis-A-Deep-Dive-into-Product-Performance-Pricing-Strategy/blob/main/Vephla%20Excel%20Dashboard%203.png)
 
 
 ## 🔍 Project Overview
